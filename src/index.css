@@ -488,12 +488,12 @@ body {
   }
 
   .contact-my div {
-    width: 80%;
+    width: 100%;
     margin-bottom: 20px;
   }
 
   .contact-you {
-    width: 80%;
+    width: 100%;
   }
 }
 .contact-you input:focus {
