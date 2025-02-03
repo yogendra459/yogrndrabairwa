@@ -156,6 +156,8 @@ body {
 }
 .home-img-1{
   width: 50%;
+  display: flex;
+    justify-content: center;
 }
 .home-about h3{
   color: #333;
@@ -259,6 +261,8 @@ body {
 }
 .about-img-2{
   width: 50%;
+  display: flex;
+    justify-content: center;
 }
 .about-about h3{
   color: #333;
