@@ -22,7 +22,7 @@ export default function About() {
             <div className="contact-my">
                 <div className="email">
                     <h3>Email</h3>
-                    <p>yogendrabairwa1222 <br />@gmail.com</p>
+                    <p>yogendrabairwa1222@gmail.com</p>
                 </div>
                 <div className="phone">
                     <h3>Phone</h3>
